@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hennyhex",
+    "name": "HennyHex",
+    "description": "henny",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "blvxr"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
